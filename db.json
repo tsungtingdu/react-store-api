@@ -6,14 +6,14 @@
       "image": "/images/1.jpg",
       "tags": "92 ",
       "price": "59440",
-      "status": "available"
+      "status": "unavailable"
     },
     {
       "id": 2,
-      "name": "Nike Paul George PG 3",
+      "name": "Nike Paul George PG 4",
+      "price": "5900",
+      "tags": "676 Colors",
       "image": "/images/2.jpg",
-      "tags": "25 Colors",
-      "price": "53800",
       "status": "available"
     },
     {
@@ -95,26 +95,15 @@
       "tags": "",
       "image": "/images/12.jpg",
       "id": 12
-    }
-  ],
-  "carts": [
-    {
-      "productId": 3,
-      "name": "Jordan Why Not Zer0.2",
-      "image": "/images/3.jpg",
-      "price": "48900",
-      "mount": 1,
-      "id": 4,
-      "userId": "admin@163.com"
     },
     {
-      "productId": 6,
-      "name": "Nike Zoom Kobe 1",
-      "image": "/images/6.jpg",
-      "price": "80391",
-      "mount": 1,
-      "userId": "admin@163.com",
-      "id": 5
+      "name": "Nike Paul George PG 4 -- test",
+      "price": "989999",
+      "tags": "",
+      "image": "/images/12.jpg",
+      "status": "available",
+      "id": 13
     }
-  ]
+  ],
+  "carts": []
 }
